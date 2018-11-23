@@ -1,0 +1,5 @@
+if ($i % 2 == 1) {
+    echo "<span style='color: red'>*</span>";
+} else {
+      echo "<span style='color: blue'>*</span>";
+  }
